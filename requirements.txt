@@ -1,1 +1,5 @@
 kaggle
+scikit-image
+monai
+pydicom
+PyWavelets
